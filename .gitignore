@@ -1,3 +1,5 @@
+notion-mock/src/.env
+
 # Logs
 logs
 *.log
